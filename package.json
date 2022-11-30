@@ -1,0 +1,21 @@
+{
+  "name": "template-playwright",
+  "version": "1.0.0",
+  "description": "Demo and template for Playwright projects",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QalyaAuto/Template-Playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QalyaAuto/Template-Playwright/issues"
+  },
+  "homepage": "https://github.com/QalyaAuto/Template-Playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.27.1"
+  }
+}
